@@ -15,4 +15,4 @@
   
   - Week-1:
   
-    - <a href=''> Week 01 - PA 1 - Linear Model and Optimization </a>
+    - <a href='https://github.com/keenborder786/Advanced-Machine-Learning-Specialization-Course-1/blob/master/Week-1/week01_pa.ipynb'> Week 01 - PA 1 - Linear Model and Optimization </a>
