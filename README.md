@@ -16,3 +16,6 @@
   - Week-1:
   
     - <a href='https://github.com/keenborder786/Advanced-Machine-Learning-Specialization-Course-1/blob/master/Week-1/week01_pa.ipynb'> Week 01 - PA 1 - Linear Model and Optimization </a>
+   
+  - Week-2:
+    - <a href='https://github.com/keenborder786/Advanced-Machine-Learning-Specialization-Course-1/blob/master/Week-2/digits_classification.ipynb'>Week 02- PA 2- Minist Digit Classification </a>
