@@ -21,9 +21,17 @@
     
     - <a href='https://github.com/keenborder786/Advanced-Machine-Learning-Specialization-Course-1/blob/master/Week-2/digits_classification.ipynb'>Week 02- PA 2- Minist Digit Classification </a>
     
-    - <a href='https://github.com/keenborder786/Advanced-Machine-Learning-Specialization-Course-1/blob/master/Week-2/NumpyNN%2B(honor).ipynb'>Week 02- PA 3- NN from scratch -Numpy </a>
+    - <a href='https://github.com/keenborder786/Advanced-Machine-Learning-Specialization-Course-1/blob/master/Week-2/NumpyNN%2B(honor).ipynb'>Week 02- PA 3- NN from scratch -Numpy</a>
+    
     
   - Week-3:
   
     - <a href='https://github.com/keenborder786/Advanced-Machine-Learning-Specialization-Course-1/blob/master/Week-3/week3_task1_first_cnn_cifar10_clean.ipynb'>Week 03- PA 1- CNN CIFAR 10 </a>
+    
+    - <a href='https://github.com/keenborder786/Advanced-Machine-Learning-Specialization-Course-1/blob/master/Week-3/week3_task2_fine_tuning_clean.ipynb'> Week 03- PA 2- Fine Tuning Clean </a>
+    
+  - Week-4:
+   
+    - <a href='https://github.com/keenborder786/Advanced-Machine-Learning-Specialization-Course-1/blob/master/Week-4/Autoencoders_task.ipynb'> Week 04- PA 1-AutoEncoders </a>
+    
     
