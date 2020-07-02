@@ -34,4 +34,6 @@
    
     - <a href='https://github.com/keenborder786/Advanced-Machine-Learning-Specialization-Course-1/blob/master/Week-4/Autoencoders_task.ipynb'> Week 04- PA 1-AutoEncoders </a>
     
+    - <a href='https://github.com/keenborder786/Advanced-Machine-Learning-Specialization-Course-1/blob/master/Week-4/Adversarial_task.ipynb'> Week 04- PA 2-Making GAN </a>
+    
     
