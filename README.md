@@ -36,4 +36,9 @@
     
     - <a href='https://github.com/keenborder786/Advanced-Machine-Learning-Specialization-Course-1/blob/master/Week-4/Adversarial_task.ipynb'> Week 04- PA 2-Making GAN </a>
     
+  - Week-5:
+   
+    - <a href='https://github.com/keenborder786/Advanced-Machine-Learning-Specialization-Course-1/blob/master/Week-5/POS_task.ipynb'> Week 05- PA 1-Conditional Random Field</a>
+    
+    - <a href='https://github.com/keenborder786/Advanced-Machine-Learning-Specialization-Course-1/blob/master/Week-5/RNN_task.ipynb'> Week 05- PA 2-Name Generator-RNN</a>
     
